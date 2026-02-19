@@ -1,0 +1,15 @@
+[project]
+name = "file-converter"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pymupdf",
+    "pdf2docx",
+    "pdfplumber",
+    "pandas",
+    "python-pptx",
+    "pdf2slides",
+    "pillow",
+]
