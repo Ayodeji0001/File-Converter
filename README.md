@@ -2,6 +2,10 @@
 
 Convert PDFs to Text, DOCX, Markdown, HTML, SVG, or Images (PNG/JPEG) via a simple web UI.
 
+## Preview
+
+![PDF Converter UI](https://raw.githubusercontent.com/Ayodeji0001/File-Converter/main/pdf-converter.jpeg)
+
 ## Setup
 
 ```bash
@@ -20,4 +24,5 @@ Then open the local URL printed in the terminal.
 
 1. Upload a PDF
 2. Choose an output format
-3. Click **Convert** and download the result
+3. Set DPI (images only)
+4. Click **Convert** and download the result
